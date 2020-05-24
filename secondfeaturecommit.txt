@@ -1,0 +1,2 @@
+This is the second "feature" branch commit made using. 
+Vim isn't that bad after all.
